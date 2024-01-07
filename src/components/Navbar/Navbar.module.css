@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    background-color: azure;
+    padding: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.item a.active {
+    color: black;
+}
+
+/*.item a.activeLink {*/
+/*    color: black;*/
+/*}*/
